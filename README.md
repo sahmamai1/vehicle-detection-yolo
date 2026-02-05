@@ -39,7 +39,7 @@ Results
 1. Successfully detected vehicles from video footage
 2. Accurately counted vehicles crossing left and right lanes
 3. Suitable for traffic monitoring and smart transportation analysis
-   ![Uploading image.png…]()
+   ![Vehicle detection and counting result](result_demo.png)
 
 
  
