@@ -50,6 +50,6 @@ Application
 
  
 Demo & Source Code
-1. Demo video: video/videocar.mov
+1. Demo video: [video/videocar.mov](https://drive.google.com/drive/folders/1yf6IjO_PCH02OcbnKxhrcr434HER08Hk?usp=sharing)
 2. Source code: [See GitHub repository link](https://github.com/sahmamai1/vehicle-detection-yolo)
 
