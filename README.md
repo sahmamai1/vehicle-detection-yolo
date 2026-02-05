@@ -49,5 +49,5 @@ Application
  
 Demo & Source Code
 1. Demo video: video/videocar.mov
-2. Source code: See GitHub repository link
+2. Source code: [See GitHub repository link](https://github.com/sahmamai1/vehicle-detection-yolo)
 
