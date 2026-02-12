@@ -36,9 +36,9 @@ The system uses a deep learning–based object detection model (YOLO) combined w
 
  
 ##  Results
-1. Successfully detected vehicles from video footage
-2. Accurately counted vehicles crossing left and right lanes
-3. Suitable for traffic monitoring and smart transportation analysis
+1. Vehicle detection and lane-based counting were successfully implemented.
+2. Performance may vary under complex traffic scenarios.
+3. The project demonstrates a functional prototype for traffic analysis.
    ![Vehicle detection and counting result](result_demo.png)
 
 
