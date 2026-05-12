@@ -2,6 +2,7 @@ from ultralytics import YOLO,solutions
 import cv2
 from function.helper import extrack_detections,create_mask
 import numpy as np
+//1234557677
 
 
 def detect_from_video(video_path,confiden=0.5):
